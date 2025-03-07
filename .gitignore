@@ -1,0 +1,6 @@
+
+/fe/node_modules/
+/fe/.env.local
+
+/be/node_modules/
+/be/.env.local
