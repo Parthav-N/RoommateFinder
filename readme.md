@@ -7,17 +7,5 @@ Finding housing and compatible roommates is a major challenge for international 
 ## Deployed website
 https://course-project-web-dev.vercel.app/
 
-## Team
-CS 5610, Section 3 @ NEU, Boston
-
-Sai Siddhartha Vivek Dhir Rangoju
-
-Sai Ritish Reddy Musku
-
-Hariharasudan Savithri Anbarasu
-
-Parthav Nuthalapati
-
-Bhuvan Nallamothu
 
 
